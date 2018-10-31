@@ -1,0 +1,56 @@
+/* CSS Document */
+@font-face {
+    font-family: 'copperplate_gothic_boldRg';
+    src: url('font/coprgtb-webfont.eot');
+    src: url('font/coprgtb-webfont.eot?#iefix') format('embedded-opentype'),
+         url('font/coprgtb-webfont.woff2') format('woff2'),
+         url('font/coprgtb-webfont.woff') format('woff'),
+         url('font/coprgtb-webfont.ttf') format('truetype'),
+         url('font/coprgtb-webfont.svg#copperplate_gothic_boldRg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body
+{
+	margin:0px;
+	padding:0px;
+	}
+
+body div.outside
+{
+	font-family: 'copperplate_gothic_boldRg';
+	position:absolute;
+	width:100%;
+	height:100%;
+	background:linear-gradient(to top right,#000000, #406c9e);
+	box-shadow:inset 0px 0px 200px 50px rgba(0,0,0,0.5);
+	}
+body div.outside div.text 
+{
+	font-size:34px;
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-left:-130px;
+	margin-top:-60px;
+	color:white;
+	}
+body div.outside div.text .expert
+{
+	font-size:14px;
+	text-align:center;
+	}
+body div.outside div.text .addres
+{
+	font-family: Tahoma, Geneva, sans-serif;
+	margin-top:10px;
+	font-size:12px;
+	text-align:center;
+	}
+div.outside div.text span
+{
+	color:#847331;
+	
+}

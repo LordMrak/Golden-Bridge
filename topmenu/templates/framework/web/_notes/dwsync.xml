@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CActiveDataProvider.php" server="82.146.34.220/g-bridge.ru/" local="130988139183469259" remote="131001028200000000" Dst="0" />
+<file name="CArrayDataProvider.php" server="82.146.34.220/g-bridge.ru/" local="130988139183544410" remote="131001028200000000" Dst="0" />
+<file name="CAssetManager.php" server="82.146.34.220/g-bridge.ru/" local="130988139183619501" remote="131001028200000000" Dst="0" />
+<file name="CBaseController.php" server="82.146.34.220/g-bridge.ru/" local="130988139183699578" remote="131001028200000000" Dst="0" />
+<file name="CCacheHttpSession.php" server="82.146.34.220/g-bridge.ru/" local="130988139183779608" remote="131001028200000000" Dst="0" />
+<file name="CClientScript.php" server="82.146.34.220/g-bridge.ru/" local="130988139183864738" remote="131001028200000000" Dst="0" />
+<file name="CController.php" server="82.146.34.220/g-bridge.ru/" local="130988139183999821" remote="131001028200000000" Dst="0" />
+<file name="CDataProvider.php" server="82.146.34.220/g-bridge.ru/" local="130988139184113574" remote="131001028200000000" Dst="0" />
+<file name="CDataProviderIterator.php" server="82.146.34.220/g-bridge.ru/" local="130988139184193628" remote="131001028200000000" Dst="0" />
+<file name="CDbHttpSession.php" server="82.146.34.220/g-bridge.ru/" local="130988139184308697" remote="131001028200000000" Dst="0" />
+<file name="CExtController.php" server="82.146.34.220/g-bridge.ru/" local="130988139184398772" remote="131001028200000000" Dst="0" />
+<file name="CHttpCookie.php" server="82.146.34.220/g-bridge.ru/" local="130988139184563872" remote="131001028200000000" Dst="0" />
+<file name="CFormModel.php" server="82.146.34.220/g-bridge.ru/" local="130988139184488842" remote="131001028200000000" Dst="0" />
+<file name="CHttpRequest.php" server="82.146.34.220/g-bridge.ru/" local="130988139184698961" remote="131001028200000000" Dst="0" />
+<file name="CHttpSession.php" server="82.146.34.220/g-bridge.ru/" local="130988139184787490" remote="131001028200000000" Dst="0" />
+<file name="CHttpSessionIterator.php" server="82.146.34.220/g-bridge.ru/" local="130988139184872549" remote="131001028200000000" Dst="0" />
+<file name="COutputEvent.php" server="82.146.34.220/g-bridge.ru/" local="130988139184962606" remote="131001028200000000" Dst="0" />
+<file name="CPagination.php" server="82.146.34.220/g-bridge.ru/" local="130988139185052675" remote="131001028200000000" Dst="0" />
+<file name="CSort.php" server="82.146.34.220/g-bridge.ru/" local="130988139185137745" remote="131001028200000000" Dst="0" />
+<file name="CSqlDataProvider.php" server="82.146.34.220/g-bridge.ru/" local="130988139185222786" remote="131001028200000000" Dst="0" />
+<file name="CTheme.php" server="82.146.34.220/g-bridge.ru/" local="130988139185312849" remote="131001028200000000" Dst="0" />
+<file name="CThemeManager.php" server="82.146.34.220/g-bridge.ru/" local="130988139185402912" remote="131001028200000000" Dst="0" />
+<file name="CUploadedFile.php" server="82.146.34.220/g-bridge.ru/" local="130988139185491605" remote="131001028200000000" Dst="0" />
+<file name="CUrlManager.php" server="82.146.34.220/g-bridge.ru/" local="130988139185571658" remote="131001028200000000" Dst="0" />
+<file name="CWebApplication.php" server="82.146.34.220/g-bridge.ru/" local="130988139185781868" remote="131001028200000000" Dst="0" />
+<file name="CWebModule.php" server="82.146.34.220/g-bridge.ru/" local="130988139185871925" remote="131001028200000000" Dst="0" />
+<file name="CWidgetFactory.php" server="82.146.34.220/g-bridge.ru/" local="130988139185956983" remote="131001028200000000" Dst="0" />
+</dwsync>

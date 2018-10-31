@@ -1,0 +1,64 @@
+/* CSS Document */
+
+div.login_css
+{
+	width:400px;
+	margin:50px auto;
+	text-align:center;
+	}
+	
+div.login_css form div
+{
+	width:200px;
+	margin:50px auto;
+	-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset;
+	-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset;
+	box-shadow:0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset;
+	padding:10px;
+	}
+div.login_css form .button
+{
+	width:100px;
+	height:70px;
+	background: -moz-linear-gradient(15deg, hsla(215,68%,10%,0.24) 40%, rgba(46,81,126,1.00) 100%);
+	background: -webkit-linear-gradient(15deg, hsla(215,68%,10%,0.24) 40%, rgba(46,81,126,1.00) 100%);
+	background: -o-linear-gradient(15deg, hsla(215,68%,10%,0.24) 40%,  rgba(46,81,126,1.00) 100%);
+	background: -ms-linear-gradient(15deg, hsla(215,68%,10%,0.24) 40%, rgba(46,81,126,1.00) 100%);
+	background: linear-gradient(15deg, hsla(215,68%,10%,0.24) 40%,  rgba(46,81,126,1.00) 100%);
+	text-align:right;
+	padding:10px;
+	cursor:pointer;
+	-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset;
+	-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset;
+	box-shadow:0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset;
+	text-align:center;
+	vertical-align:middle;
+	font-size:16px;
+	color:white;
+	border:none;
+	}
+div.login_css form .button:hover
+{
+	/*background: -moz-linear-gradient(15deg, hsla(215,68%,10%,0.24) 40%, rgba(198,177,66,1.00) 100%);
+	background: -webkit-linear-gradient(15deg, hsla(215,68%,10%,0.24) 40%, rgba(198,177,66,1.00) 100%);
+	background: -o-linear-gradient(15deg, hsla(215,68%,10%,0.24) 40%,rgba(198,177,66,1.00) 100%);
+	background: -ms-linear-gradient(15deg, hsla(215,68%,10%,0.24) 40%, rgba(198,177,66,1.00) 100%);
+	background: linear-gradient(15deg, hsla(215,68%,10%,0.24) 40%, rgba(198,177,66,1.00) 100%);*/
+	color:#CCC67A;
+	
+	-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset,  0 1px 0 rgba(255, 255, 255, 0.1), 0 0 4px rgba(255,255,255,0.76);
+	-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset,  0 1px 0 rgba(255, 255, 255, 0.1), 0 0 4px rgba(255,255,255,0.76);
+	box-shadow:0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset,  0 1px 0 rgba(255, 255, 255, 0.1), 0 0 4px rgba(255,255,255,0.76);
+	}
+div.login_css form h3
+{
+	width:200px;
+	margin:10px auto;
+	}
+div.login_css form div input
+{
+	
+	background:none;
+	border:none;
+	color:white;
+	}

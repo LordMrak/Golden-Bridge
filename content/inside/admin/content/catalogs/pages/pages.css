@@ -1,0 +1,60 @@
+/* CSS Document */
+
+.button
+{
+
+	-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset,  0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(255,255,255,0.76);
+	-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset,  0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(255,255,255,0.76);
+	box-shadow:0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset,  0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(255,255,255,0.76);
+	padding:15px;
+	text-transform:uppercase;
+	cursor:pointer;
+	display:inline-block;
+	text-align:center;
+	font-size:0.7em;
+	margin:15px;
+	background:linear-gradient(to top right,#2D6E48, hsla(60,25%,52%,1.00));
+	border-radius:4px;
+	border:white 1px solid;
+	text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.8);
+	color:white;
+	}
+.button:hover
+{
+	background:linear-gradient(to top right,#000000, #CC2225);
+	-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9);
+	-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9);
+	box-shadow:0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) ;
+	color:white;
+	}
+div.serch 
+{
+	color:hsla(0,0%,25%,1.00);
+	font-size:0.8em;
+	display:inline-block;
+	}
+.table_1
+{
+	border-collapse:collapse;
+	font-size:0.7em;
+	margin:15px;
+	}
+.table_1 tr th
+{	
+	padding:5px;
+	text-transform:uppercase;
+	border:1px hsla(39,48%,29%,1.00) solid;
+	
+}
+.table_1 tr td
+{
+		vertical-align:middle;
+		padding:10px;
+		text-align:center;
+		color:hsla(0,0%,25%,1.00);
+}
+.table_1 tr:hover
+{
+	background:hsla(148,38%,41%,0.19);
+	cursor:help;
+	}

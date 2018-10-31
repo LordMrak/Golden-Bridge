@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CBooleanValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139104066635" remote="131001027000000000" Dst="0" />
+<file name="CCaptchaValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139104166696" remote="131001027000000000" Dst="0" />
+<file name="CCompareValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139104241744" remote="131001027000000000" Dst="0" />
+<file name="CDateValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139104336824" remote="131001027000000000" Dst="0" />
+<file name="CExistValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139104566981" remote="131001027000000000" Dst="0" />
+<file name="CDefaultValueValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139104416872" remote="131001027000000000" Dst="0" />
+<file name="CEmailValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139104486928" remote="131001027000000000" Dst="0" />
+<file name="CFilterValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139104727124" remote="131001027000000000" Dst="0" />
+<file name="CInlineValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139104807184" remote="131001027000000000" Dst="0" />
+<file name="CFileValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139104652033" remote="131001027000000000" Dst="0" />
+<file name="CRangeValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139104987304" remote="131001027000000000" Dst="0" />
+<file name="CRegularExpressionValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139105067364" remote="131001027000000000" Dst="0" />
+<file name="CNumberValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139104887237" remote="131001027000000000" Dst="0" />
+<file name="CStringValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139105376946" remote="131001027000000000" Dst="0" />
+<file name="CRequiredValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139105142406" remote="131001027000000000" Dst="0" />
+<file name="CSafeValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139105301873" remote="131001027000000000" Dst="0" />
+<file name="CTypeValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139105472068" remote="131001027000000000" Dst="0" />
+<file name="CUniqueValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139105541804" remote="131001027000000000" Dst="0" />
+<file name="CUnsafeValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139105621984" remote="131001027000000000" Dst="0" />
+<file name="CUrlValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139105787163" remote="131001027000000000" Dst="0" />
+<file name="CValidator.php" server="82.146.34.220/g-bridge.ru/" local="130988139105857218" remote="131001027000000000" Dst="0" />
+</dwsync>

@@ -1,0 +1,128 @@
+/* CSS Document */
+
+#mask {
+    position:fixed;
+    left:0;
+    top:0;
+    z-index:9000;
+    background-color:#000;
+    display:none;
+    }
+  
+#boxes .window {
+    position:absolute;
+    left:0;
+    top:0;
+    width:440px;
+    /*height:450px;*/
+    display:none;
+    z-index:9999;
+    padding:20px;
+    }  
+#boxes #dialog {
+    width:375px; 
+    
+    padding:10px;
+    background-color:#ffffff;
+    }  
+#boxes #dialog1 {
+	position:fixed;
+	top:25px;
+	right:0;
+    left: 0;
+	margin: auto;
+    width:375px; 
+	-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset, 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(255,255,255,0.76);
+	-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset, 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(255,255,255,0.76);
+	box-shadow:0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset, 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(255,255,255,0.76);
+	border:hsla(0,0%,100%,1.00);
+	background:linear-gradient(to top right,#000000, #406c9e);
+	color:hsla(0,0%,100%,1.00);
+    /*height:203px;*/
+    }  
+#dialog1 .table_modal tr td
+{
+	text-transform:uppercase;
+	text-align: left;
+	font-size:10px;
+	border:none;
+	width: 230px;
+	}
+#dialog1 .table_modal tr td span
+{
+	font-weight:bold;
+	}
+#dialog1 div.text_error_modal
+{
+	
+	text-transform:uppercase;
+	text-align: left;
+	font-size:10px;
+	border:none;
+	
+}
+#dialog1 .head
+{
+	text-transform:uppercase;
+	text-align: center;
+	font-weight:bold;
+	text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.8);
+	}
+	
+	
+	
+#dialog1 .d-header {
+    border:hsla(121,49%,39%,1.00);
+	-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset;
+	-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset;
+	box-shadow:0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset;
+    width:375px; 
+    
+    }  
+#dialog1 .d-header input {
+    border:3px solid #cccccc;
+    height:22px;
+    width:200px;
+    font-size:10px;
+    padding:3px;
+    margin:4px;
+    }  
+#dialog1 .d-header select {
+    border:3px solid #cccccc;
+
+    width:210px;
+    font-size:10px;
+    padding:3px;
+    margin:4px;
+    }  
+#dialog1 .d-blank {
+    float:left;
+    background:red; 
+    width:267px; 
+    height:53px;
+    }  
+#dialog1 .d-login {
+    
+    display: inline-block;
+	margin: 5px;
+    }
+ #dialog1 .d-login input
+  {
+	width: 108px;
+	height: 33px;
+	margin: 25px auto;
+	border-radius: 4px;
+	background:linear-gradient(to top right,#D5D5D5, #406c9e);
+	-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset;
+	-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset;
+	box-shadow:0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(0, 0, 0, 0.9) inset;
+	
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	cursor:pointer; 
+	  }
+#dialog1 .d-login input:hover
+{
+	-webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(187,171,68,0.90);
+	-moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(187,171,68,0.90);
+	box-shadow:0 1px 0 rgba(255, 255, 255, 0.1), 0 0 8px rgba(187,171,68,0.90);
+	}

@@ -1,0 +1,134 @@
+/**************************Иллюстрации к кнопкам****************************************/
+fieldset .but_bro_comp
+{
+	background-image: url(../../../img/company.png);
+	}
+fieldset .but_bro_comp:hover
+{
+	background-image: url(../../../img/company_act.png);
+	color:hsla(0,0%,0%,1.00);
+	}
+	
+	
+fieldset .but_symbol
+{
+	background-image: url(../../../img/currency_blue_dollar.png);
+	}
+fieldset .but_symbol:hover
+{
+	background-image: url(../../../img/currency_blue_dollar_act.png);
+	color:hsla(0,0%,0%,1.00);
+	}
+
+
+fieldset .inv_products
+{
+	background-image: url(../../../img/inv_products.png);
+	}
+fieldset .inv_products:hover
+{
+	background-image: url(../../../img/inv_products_act.png);
+	color:hsla(0,0%,0%,1.00);
+	}
+fieldset .but_type_port
+{
+	background-image: url(../../../img/Partnership.png);
+	}
+fieldset .but_type_port:hover
+{
+	background-image: url(../../../img/Partnership_act.png);
+	color:hsla(0,0%,0%,1.00);
+	}
+fieldset .but_spred
+{
+	background-image: url(../../../img/spred.png);
+	}
+fieldset .but_spred:hover
+{
+	background-image: url(../../../img/spred_act.png);
+	color:hsla(0,0%,0%,1.00);
+	}
+
+fieldset .but_client
+{
+	background-image: url(../../../img/ico/user_man.png);
+	}
+fieldset .but_client:hover
+{
+	color:hsla(0,0%,0%,1.00);
+	}
+	
+fieldset .but_partners
+{
+	background-image: url(../../../img/ico/man_1.png);
+	}
+fieldset .but_partners:hover
+{
+	color:hsla(0,0%,0%,1.00);
+	}
+	
+fieldset .type_event_but1
+{
+	background-image: url(../../../img/event.png);
+	}
+fieldset .type_event_but1:hover
+{
+	background-image: url(../../../img/event_act.png);
+	color:hsla(0,0%,0%,1.00);
+	}
+fieldset .but_filds
+{
+	background-image: url(../../../img/filds.png);
+	}
+fieldset .but_filds:hover
+{
+	background-image: url(../../../img/filds_act.png);
+	color:hsla(0,0%,0%,1.00);
+	}
+fieldset .but_partners_filds
+{
+	background-image: url(../../../img/user_man.png);
+	}
+fieldset .but_partners_filds:hover
+{
+	background-image: url(../../../img/user_man.png);
+	color:hsla(0,0%,0%,1.00);
+	}
+	
+	
+fieldset .type_event_but
+{
+	background-image: url(../../../../img/user_man.png);
+	}
+fieldset .type_event_but:hover
+{
+	color:hsla(0,0%,0%,1.00);
+	}	
+fieldset .but_pay
+{
+	background-image: url(../../../img/checkout_50.png);
+	}
+fieldset .but_pay:hover
+{
+	background-image: url(../../../img/checkout_50_act.png);
+	color:hsla(0,0%,0%,1.00);
+	}
+fieldset .but_product
+{
+	background-image: url(../../../img/file-roller_ico.png);
+	}
+fieldset .but_product:hover
+{
+	background-image: url(../../../img/file-roller_ico_act.png);
+	color:hsla(0,0%,0%,1.00);
+	}
+fieldset .but_user
+{
+	background-image: url(../../../img/ico/user_pro_man.png);
+	}
+fieldset .but_user:hover
+{
+	color:hsla(0,0%,0%,1.00);
+	}
+
+/**************************Иллюстрации к кнопкам****************************************/

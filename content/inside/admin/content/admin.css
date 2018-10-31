@@ -1,0 +1,77 @@
+/* CSS Document */
+
+.border_main
+{
+	height:95%;
+	width:95%;
+	border:hsla(34,86%,22%,0.89) 3px double;
+	display:block;
+	margin:10px auto;
+	}
+
+a.navi_butt
+{
+	margin:10px;
+	padding: 0em 1em 0em 5.5em;
+	text-transform:uppercase;
+	font-size:0.8em;
+	cursor: pointer;
+	height:50px;
+	display:inline-block;
+	 line-height: 50px;	
+	 background-repeat: no-repeat;
+	background-position: left 15px center;
+	background-size: auto 50px;
+	transition: all 0.15s linear;
+	
+	}
+	
+
+/*Стили истории навигации на странице*/
+div.history
+{
+	padding:5px;
+	
+	}
+div.history a
+{	
+	font-size:10px;
+	color:hsla(0,0%,71%,0.72);
+	text-decoration:none;
+	text-transform:uppercase;
+	}
+div.history a:hover
+{	color:#7ACC7B;
+	text-transform:uppercase;
+	text-shadow: 0px 0px 10px rgba(151,211,154,0.98);
+	text-decoration:none;
+	}	
+/*Стили истории навигации на странице*/
+fieldset legend
+{
+	padding:10px;
+	}
+fieldset
+{
+	padding:10px;
+	margin:15px;
+	border:1px hsla(0,0%,55%,0.87) solid;
+	
+	}
+/* Стили для кнопок административной части программы */
+
+.button_edit
+{
+	background:url(../../img/edit.png);
+	width:16px;
+	height:16px;
+	display:inline-block;
+	
+	}
+.button_remove
+{
+	background:url(../../img/remove.png);
+	width:16px;
+	height:16px;
+	display:inline-block;
+	}

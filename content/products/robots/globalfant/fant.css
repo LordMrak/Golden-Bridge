@@ -1,0 +1,16 @@
+/* CSS Document */
+
+table.block_view_v tr td div.fant
+{
+	width:428px;
+	height:198px;
+	background:url(../../../img/robots/Fant/base.jpg);
+	margin:25px;
+	display:inline-block;
+	}
+a{
+	color:#CCBF7A;
+	text-transform:uppercase;
+	text-shadow: 0px 0px 13px rgba(211, 188, 151, 0.98);
+	text-decoration:none;
+}

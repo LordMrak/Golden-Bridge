@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CChainedLogFilter.php" server="82.146.34.220/g-bridge.ru/" local="130988139092626554" remote="131001027000000000" Dst="0" />
+<file name="CDbLogRoute.php" server="82.146.34.220/g-bridge.ru/" local="130988139092701597" remote="131001027000000000" Dst="0" />
+<file name="CFileLogRoute.php" server="82.146.34.220/g-bridge.ru/" local="130988139092881723" remote="131001027000000000" Dst="0" />
+<file name="CEmailLogRoute.php" server="82.146.34.220/g-bridge.ru/" local="130988139092796677" remote="131001027000000000" Dst="0" />
+<file name="CLogFilter.php" server="82.146.34.220/g-bridge.ru/" local="130988139092961782" remote="131001027000000000" Dst="0" />
+<file name="CLogger.php" server="82.146.34.220/g-bridge.ru/" local="130988139093046829" remote="131001027000000000" Dst="0" />
+<file name="CLogRoute.php" server="82.146.34.220/g-bridge.ru/" local="130988139093136910" remote="131001027000000000" Dst="0" />
+<file name="CLogRouter.php" server="82.146.34.220/g-bridge.ru/" local="130988139093201931" remote="131001027000000000" Dst="0" />
+<file name="CProfileLogRoute.php" server="82.146.34.220/g-bridge.ru/" local="130988139093281984" remote="131001027000000000" Dst="0" />
+<file name="CWebLogRoute.php" server="82.146.34.220/g-bridge.ru/" local="130988139093362038" remote="131001027000000000" Dst="0" />
+</dwsync>

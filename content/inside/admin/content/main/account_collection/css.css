@@ -1,0 +1,72 @@
+/* CSS Document */
+
+.table_2
+{
+	border-collapse:collapse;
+	
+	font-size:0.7em;
+	margin:15px;
+	border:hsla(48,19%,27%,0.74) 3px solid;	
+	}
+.table_2 tr th
+{	
+	padding:10px;
+	text-transform:uppercase;
+	border:hsla(48,19%,27%,0.74) 1px solid;	
+	color:hsla(112,56%,20%,1.00);	
+}
+
+.table_2 tr td
+{
+		border:hsla(48,19%,27%,0.74) 1px solid;	
+		vertical-align:middle;
+		padding:10px;
+		text-align:center;
+		color:hsla(0,0%,25%,1.00);
+		
+}
+.table_2 tr td.main_i
+{
+	color:hsla(124,59%,28%,1.00); 
+	font-weight:bold;
+	}
+.table_2 tr td.lost
+{
+	color:hsla(0,58%,28%,1.00); 
+	}
+.table_2 tr td.profit
+{
+	color:hsla(209,59%,28%,1.00); 
+	}
+
+.table_2 tr:hover
+{
+	background:hsla(148,38%,41%,0.19);
+	cursor:help;
+	}
+
+form .filtr
+{
+	padding:5px;
+	margin:10px;
+	}
+.filtr .title_filtr
+{
+	display:inline-block;
+	
+	}
+.filtr .filtr_row
+{
+	margin:15px;
+	}
+.timer_refresh
+{
+	display: inline-block;
+	float: right;
+	padding: 15px;
+	font-size:0.8em;
+	}
+.timer_refresh span
+{
+	color:hsla(134,63%,41%,1.00);
+	}

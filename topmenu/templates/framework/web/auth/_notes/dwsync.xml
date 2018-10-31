@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CAccessControlFilter.php" server="82.146.34.220/g-bridge.ru/" local="130988139181818732" remote="131001028200000000" Dst="0" />
+<file name="CAuthAssignment.php" server="82.146.34.220/g-bridge.ru/" local="130988139182148944" remote="131001028200000000" Dst="0" />
+<file name="CAuthItem.php" server="82.146.34.220/g-bridge.ru/" local="130988139182224011" remote="131001028200000000" Dst="0" />
+<file name="CAuthManager.php" server="82.146.34.220/g-bridge.ru/" local="130988139182324065" remote="131001028200000000" Dst="0" />
+<file name="CBaseUserIdentity.php" server="82.146.34.220/g-bridge.ru/" local="130988139182409112" remote="131001028200000000" Dst="0" />
+<file name="CPhpAuthManager.php" server="82.146.34.220/g-bridge.ru/" local="130988139182589238" remote="131001028200000000" Dst="0" />
+<file name="CDbAuthManager.php" server="82.146.34.220/g-bridge.ru/" local="130988139182494176" remote="131001028200000000" Dst="0" />
+<file name="CUserIdentity.php" server="82.146.34.220/g-bridge.ru/" local="130988139182674302" remote="131001028200000000" Dst="0" />
+<file name="CWebUser.php" server="82.146.34.220/g-bridge.ru/" local="130988139182759427" remote="131001028200000000" Dst="0" />
+<file name="schema-mssql.sql" server="82.146.34.220/g-bridge.ru/" local="130988139182843682" remote="131001028200000000" Dst="0" />
+<file name="schema-mysql.sql" server="82.146.34.220/g-bridge.ru/" local="130988139182923736" remote="131001028200000000" Dst="0" />
+<file name="schema-oci.sql" server="82.146.34.220/g-bridge.ru/" local="130988139183028808" remote="131001028200000000" Dst="0" />
+<file name="schema-pgsql.sql" server="82.146.34.220/g-bridge.ru/" local="130988139183128868" remote="131001028200000000" Dst="0" />
+<file name="schema-sqlite.sql" server="82.146.34.220/g-bridge.ru/" local="130988139183208922" remote="131001028200000000" Dst="0" />
+</dwsync>

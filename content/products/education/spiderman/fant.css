@@ -1,0 +1,10 @@
+/* CSS Document */
+
+table.block_view_v tr td div.fant
+{
+	width:428px;
+	height:198px;
+	background:url(../../../img/robots/Fant/base.jpg);
+	margin:25px;
+	display:inline-block;
+	}
